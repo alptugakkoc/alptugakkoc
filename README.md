@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Alptuğ</h1>
 
 
-- 🔭 I’m currently working on **React,Python,Swift**
+- 🔭 I’m currently working on **ReactJS,C#,Java**
 
 - 📫 How to reach me **alptugfirat@gmail.com**
 
